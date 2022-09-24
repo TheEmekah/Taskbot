@@ -1,0 +1,17 @@
+.head-options{
+    display: flex;
+    justify-content: space-between;
+}
+.right-option{
+    display: flex;
+}
+#register{
+    padding: 7% 25%;
+}
+.options{
+    display: flex;
+}
+.checkbox{
+    display: flex;
+    justify-content: space-between;
+}
